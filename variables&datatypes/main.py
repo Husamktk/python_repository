@@ -41,4 +41,3 @@ print(type(bool_variable)) #print true
 print(bool_variable) #print bool
 
 print (id(bool_variable)) #print address in memory
-
