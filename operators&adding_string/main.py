@@ -14,7 +14,7 @@ print(f"HI my name is {name}")
 
 # addimg number with str
 
-age = 21
+age = 20
 
 print ("my age is "+ str(age)) # str will convert age to the  string
 
@@ -23,3 +23,4 @@ print ("my age is "+ str(age)) # str will convert age to the  string
 print("my age is",age)
 
 print(f"my age is {age}")
+print (f"my name is {name}")
